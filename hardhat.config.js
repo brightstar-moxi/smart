@@ -1,6 +1,1 @@
-require("@nomicfoundation/hardhat-toolbox");
-
-/** @type import('hardhat/config').HardhatUserConfig */
-module.exports = {
-  solidity: "0.8.19",
-};
+//https://eth-goerli.g.alchemy.com/v2/dslVM0L-zLC9vjYxUpQmgPrY3iebXB7-
